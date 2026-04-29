@@ -1,0 +1,301 @@
+employee_id,name,department,manager,job_level,hire_date,hire_date,termination_date,termination_reason,salary,active_flag,terminated_flag,invalid_hire_date_flag,invalid_termination_date_flag
+1102,Johnson,Hr,Alice,Analyst,2020/07/01,2020-07-01,,,56592.0,1,0,0,
+1435,Miller,Finance,Bob,Manager,invalid_date,,,Unknown,67907.0,1,0,1,1.0
+1348,Williams,It,David,Manager,2021-01-10,,,Termination,94151.0,1,0,1,1.0
+1270,Johnson,Finance,Bob,Unknown,2021-01-10,,2021-12-01,Layoff,45313.0,0,1,1,0.0
+1106,Johnson,Finance,Bob,Unknown,2020/07/01,2020-07-01,,Layoff,97175.0,1,0,0,1.0
+1071,Johnson,Finance,Bob,Senior Analyst,2020/07/01,2020-07-01,,,83271.0,1,0,0,
+1188,Smith,Unknown,,Manager,03/15/2022,,,Unknown,74023.0,1,0,1,1.0
+1020,Smith,Unknown,,Analyst,invalid_date,,,Layoff,59296.0,1,0,1,1.0
+1121,Williams,Operations,Charlie,Analyst,2020/07/01,2020-07-01,,,45607.0,1,0,0,
+1466,Garcia,Finance,Bob,Analyst,03/15/2022,,,,95751.0,1,0,1,
+1214,Miller,It,David,Manager,invalid_date,,,,93064.0,1,0,1,
+1330,Jones,Hr,Alice,Manager,2020/07/01,2020-07-01,,Resignation,48906.0,1,0,0,1.0
+1458,Johnson,Unknown,,Unknown,2021-01-10,,,,61711.0,1,0,1,
+1087,Miller,It,David,Manager,invalid_date,,,,76497.0,1,0,1,
+1372,Johnson,Sales,Eve,Manager,03/15/2022,,,,65507.0,1,0,1,
+1099,Williams,Unknown,,Manager,03/15/2022,,,Resignation,41220.0,1,0,1,1.0
+1359,Johnson,Unknown,,Analyst,03/15/2022,,,Resignation,60133.0,1,0,1,1.0
+1151,Smith,Operations,Charlie,Unknown,2021-01-10,,,Layoff,99266.0,1,0,1,1.0
+1130,Jones,Hr,Alice,Senior Analyst,invalid_date,,,Termination,61150.0,1,0,1,1.0
+1149,Brown,Hr,Alice,Analyst,invalid_date,,2021-12-01,Termination,67548.0,0,1,1,0.0
+1308,Johnson,Sales,Eve,Manager,2021-01-10,,,Unknown,52822.0,1,0,1,1.0
+1257,Miller,Sales,Eve,Analyst,invalid_date,,,,78816.0,1,0,1,
+1343,Smith,Unknown,,Manager,2021-01-10,,,,71727.0,1,0,1,
+1491,Brown,Finance,Bob,Manager,2021-01-10,,,,58870.0,1,0,1,
+1413,Jones,Operations,Charlie,Analyst,2021-01-10,,,Resignation,50430.0,1,0,1,1.0
+1293,Brown,Operations,Charlie,Unknown,03/15/2022,,,Resignation,91068.0,1,0,1,1.0
+1385,Smith,Unknown,,Manager,invalid_date,,,Layoff,45917.0,1,0,1,1.0
+1191,Garcia,It,David,Unknown,2021-01-10,,,,77557.0,1,0,1,
+1443,Garcia,Finance,Bob,Senior Analyst,invalid_date,,,Termination,37692.0,1,0,1,1.0
+1276,Brown,Unknown,,Manager,03/15/2022,,,Layoff,80608.0,1,0,1,1.0
+1160,Williams,Finance,Bob,Unknown,2021-01-10,,2021-12-01,Layoff,84554.0,0,1,1,0.0
+1459,Miller,Finance,Bob,Unknown,2020/07/01,2020-07-01,2021-12-01,Resignation,86422.0,0,1,0,0.0
+1313,Miller,Finance,Bob,Senior Analyst,03/15/2022,,,,67582.0,1,0,1,
+1021,Brown,Unknown,,Unknown,2020/07/01,2020-07-01,,,93760.0,1,0,0,
+1252,Johnson,Operations,Charlie,Unknown,invalid_date,,,Layoff,104617.0,1,0,1,1.0
+1235,Johnson,Operations,Charlie,Senior Analyst,invalid_date,,,,65176.0,1,0,1,
+1344,Miller,Finance,Bob,Manager,03/15/2022,,,Termination,63235.0,1,0,1,1.0
+1048,Miller,It,David,Unknown,invalid_date,,2021-12-01,Resignation,72238.0,0,1,1,0.0
+1474,Garcia,Hr,Alice,Unknown,2020/07/01,2020-07-01,,Layoff,62835.0,1,0,0,1.0
+1058,Williams,Unknown,,Unknown,2021-01-10,,,,60642.0,1,0,1,
+1169,Smith,Hr,Alice,Analyst,2021-01-10,,2021-12-01,Layoff,61949.0,0,1,1,0.0
+1475,Johnson,It,David,Senior Analyst,2021-01-10,,,Unknown,95736.0,1,0,1,1.0
+1187,Miller,Unknown,,Analyst,03/15/2022,,2021-12-01,Termination,81578.0,0,1,1,0.0
+1463,Garcia,Finance,Bob,Senior Analyst,invalid_date,,,,62786.0,1,0,1,
+1189,Garcia,Hr,Alice,Manager,invalid_date,,2021-12-01,Unknown,46833.0,0,1,1,0.0
+1445,Johnson,Sales,Eve,Unknown,invalid_date,,,,77551.0,1,0,1,
+1174,Johnson,Sales,Eve,Senior Analyst,invalid_date,,,Resignation,38177.0,1,0,1,1.0
+1050,Smith,Finance,Bob,Senior Analyst,2020/07/01,2020-07-01,,,54017.0,1,0,0,
+1363,Brown,Hr,Alice,Manager,2020/07/01,2020-07-01,,,71377.0,1,0,0,
+1054,Johnson,Finance,Bob,Analyst,invalid_date,,,,70958.0,1,0,1,
+1243,Garcia,Hr,Alice,Manager,2021-01-10,,,,71809.0,1,0,1,
+1319,Miller,It,David,Analyst,2021-01-10,,,,64084.0,1,0,1,
+1484,Williams,Sales,Eve,Unknown,2021-01-10,,2021-12-01,Layoff,59188.0,0,1,1,0.0
+1306,Brown,Finance,Bob,Analyst,2021-01-10,,,Layoff,77258.0,1,0,1,1.0
+1134,Jones,Unknown,,Manager,2021-01-10,,,Termination,82078.0,1,0,1,1.0
+1328,Jones,Finance,Bob,Analyst,invalid_date,,,Layoff,69226.0,1,0,1,1.0
+1166,Brown,Sales,Eve,Unknown,2020/07/01,2020-07-01,,,72949.0,1,0,0,
+1273,Brown,Unknown,,Senior Analyst,2020/07/01,2020-07-01,,,72757.0,1,0,0,
+1387,Brown,Operations,Charlie,Senior Analyst,03/15/2022,,,Unknown,72502.0,1,0,1,1.0
+1088,Jones,Operations,Charlie,Analyst,invalid_date,,,Unknown,63969.0,1,0,1,1.0
+1315,Miller,Operations,Charlie,Manager,2020/07/01,2020-07-01,2021-12-01,Resignation,74185.0,0,1,0,0.0
+1013,Brown,Operations,Charlie,Analyst,2021-01-10,,,,79270.0,1,0,1,
+1241,Garcia,Hr,Alice,Unknown,2020/07/01,2020-07-01,2021-12-01,Unknown,72116.0,0,1,0,0.0
+1264,Jones,Operations,Charlie,Manager,2021-01-10,,,Unknown,77589.0,1,0,1,1.0
+1345,Brown,Unknown,,Senior Analyst,03/15/2022,,,Layoff,84855.0,1,0,1,1.0
+1052,Garcia,It,David,Manager,2021-01-10,,,,42236.0,1,0,1,
+1339,Williams,Hr,Alice,Manager,2020/07/01,2020-07-01,,,75136.0,1,0,0,
+1091,Miller,Operations,Charlie,Manager,2020/07/01,2020-07-01,,Resignation,53326.0,1,0,0,1.0
+1366,Brown,Operations,Charlie,Manager,03/15/2022,,,Layoff,82037.0,1,0,1,1.0
+1454,Johnson,Sales,Eve,Unknown,invalid_date,,,,66071.0,1,0,1,
+1427,Brown,Finance,Bob,Analyst,2020/07/01,2020-07-01,,,62385.0,1,0,0,
+1263,Johnson,Sales,Eve,Analyst,2021-01-10,,,Unknown,74536.0,1,0,1,1.0
+1430,Garcia,Finance,Bob,Senior Analyst,03/15/2022,,,,58220.0,1,0,1,
+1034,Williams,Operations,Charlie,Unknown,2020/07/01,2020-07-01,2021-12-01,Unknown,83522.0,0,1,0,0.0
+1205,Smith,Operations,Charlie,Senior Analyst,2020/07/01,2020-07-01,2021-12-01,Resignation,67917.0,0,1,0,0.0
+1080,Miller,Sales,Eve,Analyst,03/15/2022,,,Termination,64537.0,1,0,1,1.0
+1419,Williams,Sales,Eve,Senior Analyst,invalid_date,,,Unknown,81293.0,1,0,1,1.0
+1049,Brown,Finance,Bob,Analyst,03/15/2022,,,,65207.0,1,0,1,
+1001,Johnson,Sales,Eve,Unknown,2021-01-10,,2021-12-01,Termination,49978.0,0,1,1,0.0
+1389,Jones,Unknown,,Senior Analyst,invalid_date,,,Unknown,86639.0,1,0,1,1.0
+1053,Johnson,Sales,Eve,Senior Analyst,2020/07/01,2020-07-01,,Layoff,48069.0,1,0,0,1.0
+1105,Jones,Unknown,,Unknown,03/15/2022,,,,87574.0,1,0,1,
+1259,Garcia,Hr,Alice,Unknown,invalid_date,,,Termination,100425.0,1,0,1,1.0
+1309,Miller,Sales,Eve,Analyst,2021-01-10,,,,83123.0,1,0,1,
+1476,Miller,Hr,Alice,Senior Analyst,03/15/2022,,,,37645.0,1,0,1,
+1190,Smith,It,David,Senior Analyst,2020/07/01,2020-07-01,,,85953.0,1,0,0,
+1401,Brown,Finance,Bob,Unknown,2021-01-10,,,,103692.0,1,0,1,
+1217,Jones,Unknown,,Manager,2021-01-10,,,Unknown,65455.0,1,0,1,1.0
+1043,Smith,Finance,Bob,Senior Analyst,2021-01-10,,2021-12-01,Resignation,69479.0,0,1,1,0.0
+1161,Johnson,Hr,Alice,Manager,invalid_date,,,Resignation,52173.0,1,0,1,1.0
+1201,Johnson,Unknown,,Unknown,2020/07/01,2020-07-01,,,74681.0,1,0,0,
+1483,Miller,Sales,Eve,Analyst,invalid_date,,,,80466.0,1,0,1,
+1269,Johnson,Operations,Charlie,Senior Analyst,invalid_date,,,,117130.0,1,0,1,
+1350,Garcia,Hr,Alice,Manager,invalid_date,,,,70495.0,1,0,1,
+1303,Garcia,Finance,Bob,Analyst,2021-01-10,,,Termination,45540.0,1,0,1,1.0
+1455,Jones,Hr,Alice,Analyst,invalid_date,,,Termination,33753.0,1,0,1,1.0
+1461,Jones,Unknown,,Unknown,03/15/2022,,,,62003.0,1,0,1,
+1251,Jones,Operations,Charlie,Analyst,03/15/2022,,,Termination,74877.0,1,0,1,1.0
+1295,Miller,Hr,Alice,Manager,03/15/2022,,,Resignation,97312.0,1,0,1,1.0
+1212,Jones,Finance,Bob,Analyst,2021-01-10,,,,65941.0,1,0,1,
+1207,Garcia,It,David,Senior Analyst,invalid_date,,,,88927.0,1,0,1,
+1236,Jones,Hr,Alice,Senior Analyst,03/15/2022,,,,71940.0,1,0,1,
+1337,Miller,Hr,Alice,Manager,2020/07/01,2020-07-01,,Unknown,75701.0,1,0,0,1.0
+1279,Johnson,It,David,Senior Analyst,2020/07/01,2020-07-01,2021-12-01,Termination,49037.0,0,1,0,0.0
+1409,Williams,Unknown,,Senior Analyst,03/15/2022,,2021-12-01,Layoff,68571.0,0,1,1,0.0
+1216,Jones,Unknown,,Analyst,2021-01-10,,,,75856.0,1,0,1,
+1379,Jones,Unknown,,Manager,invalid_date,,,,74172.0,1,0,1,
+1492,Garcia,Finance,Bob,Analyst,invalid_date,,,Unknown,70867.0,1,0,1,1.0
+1040,Brown,Sales,Eve,Manager,invalid_date,,,,81545.0,1,0,1,
+1156,Jones,Finance,Bob,Senior Analyst,invalid_date,,,Unknown,57566.0,1,0,1,1.0
+1014,Miller,Unknown,,Senior Analyst,03/15/2022,,,,72452.0,1,0,1,
+1300,Smith,Operations,Charlie,Unknown,invalid_date,,,,59247.0,1,0,1,
+1064,Garcia,Operations,Charlie,Analyst,2020/07/01,2020-07-01,,,93380.0,1,0,0,
+1326,Garcia,Unknown,,Unknown,2021-01-10,,,,70947.0,1,0,1,
+1008,Brown,Operations,Charlie,Analyst,invalid_date,,,Layoff,74940.0,1,0,1,1.0
+1128,Brown,Sales,Eve,Senior Analyst,2021-01-10,,,Unknown,61281.0,1,0,1,1.0
+1135,Johnson,Finance,Bob,Analyst,03/15/2022,,,,61498.0,1,0,1,
+1471,Jones,Unknown,,Analyst,2021-01-10,,,Unknown,77925.0,1,0,1,1.0
+1062,Miller,Operations,Charlie,Senior Analyst,03/15/2022,,,,67842.0,1,0,1,
+1138,Brown,Operations,Charlie,Senior Analyst,03/15/2022,,,,81943.0,1,0,1,
+1498,Smith,Hr,Alice,Unknown,invalid_date,,,,77155.0,1,0,1,
+1391,Garcia,It,David,Analyst,03/15/2022,,,Resignation,73712.0,1,0,1,1.0
+1162,Jones,Finance,Bob,Senior Analyst,03/15/2022,,2021-12-01,Resignation,103757.0,0,1,1,0.0
+1418,Miller,Hr,Alice,Senior Analyst,03/15/2022,,,,89879.0,1,0,1,
+1288,Johnson,Hr,Alice,Analyst,invalid_date,,,,76330.0,1,0,1,
+1378,Johnson,Unknown,,Manager,2020/07/01,2020-07-01,,,54109.0,1,0,0,
+1260,Garcia,Finance,Bob,Analyst,2021-01-10,,,Resignation,77163.0,1,0,1,1.0
+1489,Jones,Unknown,,Manager,invalid_date,,,,81096.0,1,0,1,
+1230,Brown,It,David,Senior Analyst,invalid_date,,,,66194.0,1,0,1,
+1027,Brown,Hr,Alice,Unknown,2020/07/01,2020-07-01,2021-12-01,Resignation,92645.0,0,1,0,0.0
+1200,Johnson,It,David,Unknown,2021-01-10,,,Resignation,54126.0,1,0,1,1.0
+1327,Johnson,Hr,Alice,Analyst,invalid_date,,,,80390.0,1,0,1,
+1267,Williams,It,David,Analyst,2020/07/01,2020-07-01,,Resignation,76863.0,1,0,0,1.0
+1417,Johnson,Finance,Bob,Analyst,2021-01-10,,,,85433.0,1,0,1,
+1032,Smith,Operations,Charlie,Manager,2020/07/01,2020-07-01,,Unknown,78547.0,1,0,0,1.0
+1047,Jones,Hr,Alice,Senior Analyst,2021-01-10,,,,61484.0,1,0,1,
+1406,Jones,Sales,Eve,Analyst,03/15/2022,,,Resignation,76483.0,1,0,1,1.0
+1061,Brown,Finance,Bob,Analyst,2020/07/01,2020-07-01,2021-12-01,Termination,52868.0,0,1,0,0.0
+1215,Miller,It,David,Senior Analyst,2020/07/01,2020-07-01,,,66245.0,1,0,0,
+1292,Johnson,Unknown,,Analyst,invalid_date,,,Unknown,77542.0,1,0,1,1.0
+1098,Smith,Finance,Bob,Unknown,2020/07/01,2020-07-01,,Unknown,64592.0,1,0,0,1.0
+1171,Brown,Hr,Alice,Senior Analyst,2020/07/01,2020-07-01,,Termination,107021.0,1,0,0,1.0
+1213,Brown,Operations,Charlie,Senior Analyst,2020/07/01,2020-07-01,,Layoff,61788.0,1,0,0,1.0
+1448,Williams,Sales,Eve,Unknown,03/15/2022,,,,60355.0,1,0,1,
+1226,Brown,Unknown,,Senior Analyst,03/15/2022,,2021-12-01,Resignation,50104.0,0,1,1,0.0
+1100,Smith,It,David,Manager,2021-01-10,,,,81291.0,1,0,1,
+1256,Williams,Operations,Charlie,Unknown,2021-01-10,,,,59637.0,1,0,1,
+1004,Jones,Sales,Eve,Manager,2021-01-10,,,Unknown,95084.0,1,0,1,1.0
+1254,Williams,Sales,Eve,Analyst,2020/07/01,2020-07-01,,,41977.0,1,0,0,
+1397,Smith,Hr,Alice,Analyst,2020/07/01,2020-07-01,,Resignation,40388.0,1,0,0,1.0
+1358,Smith,Hr,Alice,Manager,2021-01-10,,,Layoff,85639.0,1,0,1,1.0
+1282,Johnson,Sales,Eve,Unknown,2021-01-10,,,Resignation,62202.0,1,0,1,1.0
+1392,Williams,Unknown,,Manager,2020/07/01,2020-07-01,,,45264.0,1,0,0,
+1206,Brown,Sales,Eve,Unknown,invalid_date,,2021-12-01,Resignation,85686.0,0,1,1,0.0
+1041,Brown,It,David,Manager,2020/07/01,2020-07-01,,,82143.0,1,0,0,
+1460,Garcia,Operations,Charlie,Unknown,invalid_date,,,,45527.0,1,0,1,
+1178,Johnson,Unknown,,Manager,03/15/2022,,,,93714.0,1,0,1,
+1351,Williams,Unknown,,Senior Analyst,2020/07/01,2020-07-01,,Termination,51666.0,1,0,0,1.0
+1240,Williams,Operations,Charlie,Manager,2021-01-10,,,,101199.0,1,0,1,
+1051,Miller,Operations,Charlie,Unknown,03/15/2022,,,Resignation,77401.0,1,0,1,1.0
+1095,Smith,Sales,Eve,Senior Analyst,invalid_date,,,Resignation,84481.0,1,0,1,1.0
+1221,Jones,Unknown,,Analyst,invalid_date,,,Resignation,60972.0,1,0,1,1.0
+1142,Johnson,It,David,Manager,2021-01-10,,2021-12-01,Unknown,49641.0,0,1,1,0.0
+1170,Williams,Unknown,,Unknown,2020/07/01,2020-07-01,,,67164.0,1,0,0,
+1028,Smith,Unknown,,Manager,invalid_date,,,Termination,67847.0,1,0,1,1.0
+1035,Miller,Hr,Alice,Manager,03/15/2022,,,,62070.0,1,0,1,
+1012,Brown,Unknown,,Unknown,2020/07/01,2020-07-01,,,40733.0,1,0,0,
+1159,Johnson,Unknown,,Manager,2021-01-10,,,Unknown,60566.0,1,0,1,1.0
+1186,Johnson,Unknown,,Senior Analyst,2020/07/01,2020-07-01,,Termination,72422.0,1,0,0,1.0
+1242,Jones,Hr,Alice,Manager,2020/07/01,2020-07-01,,,71657.0,1,0,0,
+1085,Williams,Finance,Bob,Analyst,2021-01-10,,,,75669.0,1,0,1,
+1283,Jones,Operations,Charlie,Manager,03/15/2022,,,Termination,59860.0,1,0,1,1.0
+1065,Brown,Finance,Bob,Senior Analyst,invalid_date,,,Resignation,77842.0,1,0,1,1.0
+1044,Jones,Sales,Eve,Senior Analyst,2020/07/01,2020-07-01,,,42671.0,1,0,0,
+1440,Smith,Sales,Eve,Analyst,2021-01-10,,,Unknown,62511.0,1,0,1,1.0
+1133,Brown,Unknown,,Analyst,2020/07/01,2020-07-01,,,58701.0,1,0,0,
+1107,Smith,It,David,Analyst,2021-01-10,,,,74101.0,1,0,1,
+1285,Williams,Hr,Alice,Analyst,03/15/2022,,,Unknown,74471.0,1,0,1,1.0
+1127,Smith,It,David,Senior Analyst,invalid_date,,2021-12-01,Unknown,70373.0,0,1,1,0.0
+1347,Miller,Hr,Alice,Analyst,2020/07/01,2020-07-01,,,59769.0,1,0,0,
+1472,Miller,Finance,Bob,Manager,invalid_date,,,,52383.0,1,0,1,
+1224,Brown,Sales,Eve,Senior Analyst,2021-01-10,,2021-12-01,Resignation,70900.0,0,1,1,0.0
+1384,Smith,Unknown,,Analyst,2021-01-10,,,,45837.0,1,0,1,
+1376,Miller,Operations,Charlie,Unknown,2021-01-10,,,,61739.0,1,0,1,
+1120,Smith,Operations,Charlie,Senior Analyst,2020/07/01,2020-07-01,,,62042.0,1,0,0,
+1115,Williams,Operations,Charlie,Senior Analyst,2020/07/01,2020-07-01,2021-12-01,Layoff,95345.0,0,1,0,0.0
+1232,Garcia,Unknown,,Unknown,03/15/2022,,,,70392.0,1,0,1,
+1258,Smith,Finance,Bob,Manager,invalid_date,,,,32972.0,1,0,1,
+1197,Garcia,Sales,Eve,Unknown,2020/07/01,2020-07-01,,,35590.0,1,0,0,
+1410,Smith,It,David,Manager,invalid_date,,,,86254.0,1,0,1,
+1136,Garcia,Finance,Bob,Analyst,invalid_date,,,,96613.0,1,0,1,
+1317,Jones,Sales,Eve,Analyst,2021-01-10,,,Unknown,73904.0,1,0,1,1.0
+1164,Williams,Finance,Bob,Analyst,invalid_date,,,,64579.0,1,0,1,
+1233,Brown,Sales,Eve,Manager,2020/07/01,2020-07-01,,,84716.0,1,0,0,
+1462,Smith,Hr,Alice,Unknown,2020/07/01,2020-07-01,,,59167.0,1,0,0,
+1314,Williams,Operations,Charlie,Senior Analyst,2021-01-10,,,,109438.0,1,0,1,
+1373,Brown,Unknown,,Unknown,03/15/2022,,,,83686.0,1,0,1,
+1179,Miller,Unknown,,Analyst,invalid_date,,,Resignation,75273.0,1,0,1,1.0
+1112,Brown,It,David,Analyst,invalid_date,,2021-12-01,Resignation,84262.0,0,1,1,0.0
+1496,Johnson,Finance,Bob,Analyst,2021-01-10,,,,68379.0,1,0,1,
+1441,Miller,Unknown,,Senior Analyst,03/15/2022,,,,68968.0,1,0,1,
+1294,Williams,Hr,Alice,Unknown,invalid_date,,,,79863.0,1,0,1,
+1386,Smith,It,David,Senior Analyst,03/15/2022,,,,64393.0,1,0,1,
+1439,Brown,Unknown,,Manager,03/15/2022,,,,50316.0,1,0,1,
+1129,Jones,Sales,Eve,Manager,2021-01-10,,,,47796.0,1,0,1,
+1219,Jones,Unknown,,Unknown,2021-01-10,,,,79689.0,1,0,1,
+1342,Johnson,Unknown,,Unknown,2021-01-10,,,,61023.0,1,0,1,
+1223,Garcia,Sales,Eve,Analyst,03/15/2022,,,,59363.0,1,0,1,
+1402,Jones,Operations,Charlie,Analyst,03/15/2022,,,Unknown,56164.0,1,0,1,1.0
+1125,Williams,Operations,Charlie,Senior Analyst,2020/07/01,2020-07-01,2021-12-01,Termination,92818.0,0,1,0,0.0
+1415,Brown,Finance,Bob,Analyst,2021-01-10,,,,76380.0,1,0,1,
+1246,Smith,Hr,Alice,Manager,invalid_date,,,Resignation,83156.0,1,0,1,1.0
+1323,Johnson,Finance,Bob,Unknown,03/15/2022,,,,80103.0,1,0,1,
+1438,Johnson,Unknown,,Unknown,2021-01-10,,,,95718.0,1,0,1,
+1202,Brown,Operations,Charlie,Senior Analyst,invalid_date,,,,54109.0,1,0,1,
+1183,Smith,Sales,Eve,Manager,2020/07/01,2020-07-01,,Unknown,75705.0,1,0,0,1.0
+1122,Jones,Unknown,,Manager,03/15/2022,,,,37393.0,1,0,1,
+1400,Garcia,Hr,Alice,Analyst,2020/07/01,2020-07-01,,,50246.0,1,0,0,
+1324,Johnson,Hr,Alice,Unknown,invalid_date,,,Unknown,61492.0,1,0,1,1.0
+1371,Smith,Finance,Bob,Manager,2021-01-10,,,,64159.0,1,0,1,
+1097,Johnson,Unknown,,Manager,03/15/2022,,,,90542.0,1,0,1,
+1469,Johnson,Operations,Charlie,Manager,2020/07/01,2020-07-01,,Unknown,96239.0,1,0,0,1.0
+1394,Johnson,Operations,Charlie,Senior Analyst,invalid_date,,,,81910.0,1,0,1,
+1239,Jones,Unknown,,Manager,03/15/2022,,,Resignation,76863.0,1,0,1,1.0
+1143,Jones,Unknown,,Analyst,03/15/2022,,,Layoff,52096.0,1,0,1,1.0
+1096,Jones,Operations,Charlie,Senior Analyst,invalid_date,,2021-12-01,Resignation,84029.0,0,1,1,0.0
+1123,Williams,Finance,Bob,Unknown,2021-01-10,,,,52083.0,1,0,1,
+1325,Smith,Sales,Eve,Unknown,invalid_date,,,Unknown,49181.0,1,0,1,1.0
+1147,Miller,Operations,Charlie,Manager,2021-01-10,,,,59696.0,1,0,1,
+1442,Smith,Sales,Eve,Manager,2021-01-10,,,Layoff,80985.0,1,0,1,1.0
+1450,Garcia,Sales,Eve,Manager,03/15/2022,,,Resignation,65394.0,1,0,1,1.0
+1146,Brown,Sales,Eve,Unknown,2021-01-10,,2021-12-01,Termination,85392.0,0,1,1,0.0
+1198,Jones,Unknown,,Unknown,03/15/2022,,,,67033.0,1,0,1,
+1307,Brown,It,David,Analyst,03/15/2022,,,,64304.0,1,0,1,
+1488,Garcia,Unknown,,Unknown,2020/07/01,2020-07-01,,,68685.0,1,0,0,
+1416,Miller,Finance,Bob,Analyst,03/15/2022,,,Layoff,72291.0,1,0,1,1.0
+1423,Williams,Finance,Bob,Senior Analyst,03/15/2022,,,,78823.0,1,0,1,
+1038,Johnson,Operations,Charlie,Analyst,03/15/2022,,,,33524.0,1,0,1,
+1266,Williams,Unknown,,Analyst,2020/07/01,2020-07-01,,,68143.0,1,0,0,
+1433,Brown,It,David,Senior Analyst,invalid_date,,,,81896.0,1,0,1,
+1150,Garcia,Sales,Eve,Manager,2021-01-10,,2021-12-01,Resignation,88416.0,0,1,1,0.0
+1414,Johnson,Sales,Eve,Manager,invalid_date,,,,68155.0,1,0,1,
+1477,Brown,Sales,Eve,Senior Analyst,2020/07/01,2020-07-01,,,71413.0,1,0,0,
+1297,Brown,It,David,Senior Analyst,2021-01-10,,,,70150.0,1,0,1,
+1262,Miller,Sales,Eve,Manager,2020/07/01,2020-07-01,,,58463.0,1,0,0,
+1111,Williams,Operations,Charlie,Senior Analyst,2021-01-10,,,,88828.0,1,0,1,
+1499,Jones,It,David,Unknown,2020/07/01,2020-07-01,,,72826.0,1,0,0,
+1059,Brown,It,David,Unknown,2020/07/01,2020-07-01,,,68111.0,1,0,0,
+1368,Garcia,Finance,Bob,Manager,invalid_date,,,,59238.0,1,0,1,
+1253,Smith,It,David,Unknown,invalid_date,,,Termination,73686.0,1,0,1,1.0
+1139,Smith,Operations,Charlie,Analyst,invalid_date,,,,57079.0,1,0,1,
+1452,Smith,Unknown,,Senior Analyst,03/15/2022,,2021-12-01,Layoff,56793.0,0,1,1,0.0
+1036,Garcia,Finance,Bob,Analyst,invalid_date,,,Resignation,84433.0,1,0,1,1.0
+1403,Jones,Unknown,,Manager,invalid_date,,,Termination,76320.0,1,0,1,1.0
+1119,Williams,Hr,Alice,Senior Analyst,03/15/2022,,,Layoff,66422.0,1,0,1,1.0
+1407,Jones,Operations,Charlie,Manager,03/15/2022,,,Unknown,37515.0,1,0,1,1.0
+1074,Williams,It,David,Unknown,2020/07/01,2020-07-01,,Unknown,62328.0,1,0,0,1.0
+1421,Johnson,Sales,Eve,Analyst,invalid_date,,,Termination,65188.0,1,0,1,1.0
+1103,Miller,Finance,Bob,Manager,03/15/2022,,,,69961.0,1,0,1,
+1152,Jones,Sales,Eve,Senior Analyst,invalid_date,,,,50597.0,1,0,1,
+1383,Williams,Unknown,,Analyst,2021-01-10,,,,64533.0,1,0,1,
+1365,Miller,Operations,Charlie,Unknown,2020/07/01,2020-07-01,2021-12-01,Layoff,57573.0,0,1,0,0.0
+1193,Williams,Unknown,,Analyst,2020/07/01,2020-07-01,,,95948.0,1,0,0,
+1444,Brown,Unknown,,Manager,2021-01-10,,,Unknown,52059.0,1,0,1,1.0
+1168,Brown,It,David,Analyst,invalid_date,,,,69404.0,1,0,1,
+1067,Brown,Hr,Alice,Unknown,2021-01-10,,,Unknown,82052.0,1,0,1,1.0
+1194,Smith,Hr,Alice,Senior Analyst,03/15/2022,,,,73705.0,1,0,1,
+1175,Miller,Operations,Charlie,Senior Analyst,2021-01-10,,,,60687.0,1,0,1,
+1370,Smith,Finance,Bob,Senior Analyst,invalid_date,,,Termination,86499.0,1,0,1,1.0
+1374,Brown,Unknown,,Senior Analyst,2020/07/01,2020-07-01,,Unknown,76497.0,1,0,0,1.0
+1237,Brown,Finance,Bob,Manager,2021-01-10,,,,55194.0,1,0,1,
+1157,Jones,Operations,Charlie,Unknown,2021-01-10,,,,92301.0,1,0,1,
+1037,Jones,Finance,Bob,Unknown,03/15/2022,,,,94584.0,1,0,1,
+1229,Garcia,Operations,Charlie,Manager,2020/07/01,2020-07-01,,Unknown,109376.0,1,0,0,1.0
+1364,Williams,Hr,Alice,Unknown,2020/07/01,2020-07-01,,,73464.0,1,0,0,
+1437,Garcia,Operations,Charlie,Analyst,2020/07/01,2020-07-01,,Layoff,82405.0,1,0,0,1.0
+1026,Jones,Operations,Charlie,Analyst,03/15/2022,,,,81760.0,1,0,1,
+1225,Miller,Unknown,,Manager,2021-01-10,,2021-12-01,Unknown,68409.0,0,1,1,0.0
+1447,Williams,Hr,Alice,Analyst,2021-01-10,,,Termination,59838.0,1,0,1,1.0
+1480,Jones,Sales,Eve,Senior Analyst,invalid_date,,,Termination,80076.0,1,0,1,1.0
+1316,Miller,Unknown,,Analyst,invalid_date,,2021-12-01,Resignation,56875.0,0,1,1,0.0
+1003,Smith,Finance,Bob,Unknown,invalid_date,,,,84707.0,1,0,1,
+1016,Williams,It,David,Senior Analyst,2020/07/01,2020-07-01,,,66704.0,1,0,0,
+1045,Garcia,Unknown,,Manager,2021-01-10,,,,64917.0,1,0,1,
+1005,Williams,Sales,Eve,Senior Analyst,invalid_date,,,,70984.0,1,0,1,
+1301,Smith,Unknown,,Senior Analyst,03/15/2022,,,,75544.0,1,0,1,
+1180,Jones,Unknown,,Analyst,2020/07/01,2020-07-01,,,75417.0,1,0,0,
+1094,Miller,Sales,Eve,Unknown,2020/07/01,2020-07-01,,Layoff,61314.0,1,0,0,1.0
+1468,Garcia,Hr,Alice,Analyst,03/15/2022,,,Termination,69051.0,1,0,1,1.0
+1470,Jones,Operations,Charlie,Analyst,2021-01-10,,,,78177.0,1,0,1,
+1255,Jones,Finance,Bob,Unknown,2021-01-10,,,,74557.0,1,0,1,
+1322,Jones,Unknown,,Senior Analyst,2020/07/01,2020-07-01,,Layoff,49350.0,1,0,0,1.0
+1017,Johnson,Hr,Alice,Senior Analyst,invalid_date,,,,95133.0,1,0,1,
+1280,Johnson,Finance,Bob,Manager,invalid_date,,,,95197.0,1,0,1,
+1222,Smith,Unknown,,Unknown,03/15/2022,,2021-12-01,Termination,61249.0,0,1,1,0.0
+1057,Garcia,It,David,Manager,03/15/2022,,,,48997.0,1,0,1,
+1173,Smith,Operations,Charlie,Analyst,03/15/2022,,,Resignation,68457.0,1,0,1,1.0
+1113,Jones,Finance,Bob,Analyst,2020/07/01,2020-07-01,,,91420.0,1,0,0,
+1287,Jones,Operations,Charlie,Senior Analyst,2021-01-10,,,,71499.0,1,0,1,
+1341,Garcia,Finance,Bob,Senior Analyst,03/15/2022,,,,63035.0,1,0,1,

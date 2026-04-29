@@ -1,0 +1,7 @@
+department,total_employees,active_employees,terminated_employees,turnover_rate
+Finance,55,49,6,0.1091
+Hr,44,39,5,0.1136
+It,34,29,5,0.1471
+Operations,53,46,7,0.1321
+Sales,46,40,6,0.1304
+Unknown,68,61,7,0.1029

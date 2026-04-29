@@ -1,0 +1,25 @@
+department,job_level,total_employees,active_employees,terminated_employees,avg_salary
+Finance,Analyst,21,20,1,72850.43
+Finance,Manager,10,10,0,61911.6
+Finance,Senior Analyst,13,11,2,69274.54
+Finance,Unknown,11,8,3,78889.27
+Hr,Analyst,12,10,2,60860.42
+Hr,Manager,13,12,1,70174.15
+Hr,Senior Analyst,9,9,0,73819.89
+Hr,Unknown,10,8,2,76121.4
+It,Analyst,7,6,1,72390.0
+It,Manager,9,8,1,72697.11
+It,Senior Analyst,11,9,2,73237.09
+It,Unknown,7,6,1,68696.0
+Operations,Analyst,14,14,0,67145.64
+Operations,Manager,11,10,1,75415.36
+Operations,Senior Analyst,17,13,4,78529.59
+Operations,Unknown,11,9,2,75627.09
+Sales,Analyst,11,11,0,69173.09
+Sales,Manager,12,11,1,72049.0
+Sales,Senior Analyst,11,10,1,63631.09
+Sales,Unknown,12,8,4,63788.08
+Unknown,Analyst,16,14,2,67882.81
+Unknown,Manager,22,21,1,66118.86
+Unknown,Senior Analyst,13,10,3,68201.38
+Unknown,Unknown,17,16,1,70981.76

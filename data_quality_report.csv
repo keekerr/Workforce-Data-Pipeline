@@ -1,0 +1,10 @@
+check_name,issue_count,severity,recommended_action
+Duplicate employee IDs in raw employee file,200,High,Deduplicate employee records before creating employee master.
+Missing department in raw employee file,97,Medium,Replace missing departments with Unknown or resolve using source system.
+Missing job level in raw employee file,106,Medium,Replace missing job levels with Unknown or validate with HR source.
+Missing termination reason,54,Low,Replace missing termination reasons with Unknown.
+Invalid hire dates after cleaning,227,High,Review records with invalid hire dates before using tenure or time-based reporting.
+Invalid termination dates after cleaning,105,High,Review records with invalid termination dates before turnover reporting.
+Unknown departments after cleaning,68,Medium,Resolve Unknown departments with HR source system.
+Unknown job levels after cleaning,68,Medium,Resolve Unknown job levels with HR source system.
+Departments not matched to department lookup,68,Medium,Add missing departments to department lookup or correct source department values.
